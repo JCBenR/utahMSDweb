@@ -1,0 +1,22 @@
+#italicParagraph{
+    font-style: italic;
+}
+
+#underline{
+    text-decoration: underline;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#topObj{
+    font-style: oblique;
+    text-decoration: underline;
+    font-size: 5em;
+    color: crimson;
+}
+
+.images{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: tomato;
+    font-size: 6rem;
+}
